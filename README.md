@@ -6,7 +6,7 @@ You must fill your api key from [DeepAI](https://deepai.org/)
 ```php
 $API_KEY = "YOUR_API_KEY_HEREEEEEEEEEEE";
 ```
-or you can empty it but you will need enter it later
+or you can leave it empty but you will need enter it later
 ```
 Option: scan - scan in your dir (your dir: C:\Users\michio\Desktop\project/INPUT)
         start - 2x your waifu in folder C:\Users\michio\Desktop\project/INPUT
