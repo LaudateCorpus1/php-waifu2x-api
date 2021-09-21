@@ -24,14 +24,17 @@ php php-waifu2x-api.php
 
 or install php on linux
 
-Example
+### Example
 ```
 Ubuntu/Debian: apt install php
 CentOS: yum install php
 ...
 ```
 Your perfect waifu will in OUTPUT folder ehehe
+## Demo
 
+[See the demo here](https://github.com/michioxd/php-waifu2x-api/blob/main/preview.mp4?raw=true)
+        
 ## License
 
 php-waifu2x-api is licensed under the GNU General Public License v3, for more information please check out the [license information](https://github.com/michioxd/php-waifu2x-api/blob/master/LICENSE).
